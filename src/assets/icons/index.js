@@ -1,5 +1,6 @@
-import Logo from './Logo.svg';
+import Vector from './Vector.svg';
 import Home from './Home.svg';
 import Profile from './Profile.svg';
+import IconBack from './BackArrow.svg'
 
-export {Logo, Home, Profile};
+export {Vector, Home, Profile, IconBack};
